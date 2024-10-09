@@ -1,4 +1,5 @@
 function numberCheck(){
+    
     let number = 5;
     let enter = prompt("Guess a number between 1 and 10:");
     while (enter !=number){
